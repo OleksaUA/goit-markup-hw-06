@@ -531,6 +531,7 @@ body {
 .icon-subscribe-btn {
   fill: #ffffff;
   margin-left: 16px;
+  /* margin-right: 16px; */
 }
 
 /* PORTFOLIO */
